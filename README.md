@@ -9,3 +9,6 @@ Think your next project could benefit from my skills? Hire Me!
 For more info visit: http://femKreations.com
 
 Thanks Femy
+
+## Features <a id='ssFeatures' href='https://lauravela.com'>lauravela.com</a>
+
