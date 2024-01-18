@@ -10,5 +10,5 @@ For more info visit: http://femKreations.com
 
 Thanks Femy
 
-## Features <a id='ssFeatures' href='https://lauravela.com'>lauravela.com</a>
+## Features <a id='ssFeatures' href='https://lauravela.com' ref="dofollow">lauravela.com</a>
 
