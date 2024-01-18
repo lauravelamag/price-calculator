@@ -12,7 +12,7 @@ Thanks Femy
 
 ## Features <a id='ssFeatures' href='https://lauravela.com' ref="dofollow">lauravela.com</a>
 
-in [Section `Features`](#feature)
+in [Section `Features`](https://lauravela.com)
 
 ## Feature
 
